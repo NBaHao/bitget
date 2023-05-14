@@ -48,3 +48,4 @@ if __name__ == '__main__':
                     bot.sendMessage(chat_id = chat_id , text=res['symbol']+"\n" + res['side'] + "\nleverage: " + res['leverage'] + "\nprice: "+str(res['priceAvg']) + "\nvol: " + str(res['size']))
                 break
             cnt=tcnt
+# hahahahahahahah
